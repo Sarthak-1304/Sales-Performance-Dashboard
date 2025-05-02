@@ -39,7 +39,7 @@ A dynamic Power BI dashboard designed to analyze sales trends and customer behav
 
 ├── README.md # Project documentation
 
-├── /Data-Samples # (Optional) Sample datasetsv
+├── /Datasets Sample datasetsv
 
 
 ---
