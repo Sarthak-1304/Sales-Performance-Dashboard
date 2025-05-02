@@ -35,11 +35,11 @@ A dynamic Power BI dashboard designed to analyze sales trends and customer behav
 /PowerBI-Dashboard
 │
 
-├──Sales.pbix # Main Power BI dashboard file
+├──Sales.pbix   #Main Power BI dashboard file
 
-├── README.md # Project documentation
+├── README.md   #Project documentation
 
-├── /Datasets Sample datasetsv
+├── /Datasets   #Sample datasetsv
 
 
 ---
