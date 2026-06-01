@@ -3,6 +3,13 @@
 A dynamic Power BI dashboard designed to analyze sales trends and customer behavior. This solution streamlines reporting, improves data-driven decision-making, and enhances overall data quality.
 
 ---
+# Sales Dashboard
+
+## Page 1
+![Page 1](images/page1.png)
+
+## Page 2
+![Page 2](images/page-2.png)
 
 ## 🔧 Features
 
